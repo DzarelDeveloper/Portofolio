@@ -1,2 +1,4 @@
-# Portofolio
-Html CSS javascript ( Responsive ✓ )
+# SITUS WEB PORTOFOLIO PRIBADI 
+
+### NOTES 
+IF YOU WANT TO TAKE THIS SOURCE CODE GET MY LICENSE
